@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+sqlalchemy
+scikit-learn
+ipykernel
+missingno
