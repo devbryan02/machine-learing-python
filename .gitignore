@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Datos generados
+data/ventas_imputado.csv
+db/ventas.db
+
+# Modelos y artefactos
+model/
+reports/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
